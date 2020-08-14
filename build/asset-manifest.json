@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/rabbihosain/react/static/css/main.5ba71205.chunk.css",
+    "main.js": "/rabbihosain/react/static/js/main.656c5840.chunk.js",
+    "main.js.map": "/rabbihosain/react/static/js/main.656c5840.chunk.js.map",
+    "runtime-main.js": "/rabbihosain/react/static/js/runtime-main.fcae2925.js",
+    "runtime-main.js.map": "/rabbihosain/react/static/js/runtime-main.fcae2925.js.map",
+    "static/css/2.11829350.chunk.css": "/rabbihosain/react/static/css/2.11829350.chunk.css",
+    "static/js/2.904c44bd.chunk.js": "/rabbihosain/react/static/js/2.904c44bd.chunk.js",
+    "static/js/2.904c44bd.chunk.js.map": "/rabbihosain/react/static/js/2.904c44bd.chunk.js.map",
+    "index.html": "/rabbihosain/react/index.html",
+    "precache-manifest.8f5c4f0f7d0eea6ab172d08d16dad580.js": "/rabbihosain/react/precache-manifest.8f5c4f0f7d0eea6ab172d08d16dad580.js",
+    "service-worker.js": "/rabbihosain/react/service-worker.js",
+    "static/css/2.11829350.chunk.css.map": "/rabbihosain/react/static/css/2.11829350.chunk.css.map",
+    "static/css/main.5ba71205.chunk.css.map": "/rabbihosain/react/static/css/main.5ba71205.chunk.css.map",
+    "static/js/2.904c44bd.chunk.js.LICENSE.txt": "/rabbihosain/react/static/js/2.904c44bd.chunk.js.LICENSE.txt",
+    "static/media/Rabbi-hosain.jpg": "/rabbihosain/react/static/media/Rabbi-hosain.692c6ea6.jpg",
+    "static/media/android.jpg": "/rabbihosain/react/static/media/android.ef552ead.jpg",
+    "static/media/digital-marketing.jpg": "/rabbihosain/react/static/media/digital-marketing.59ee91cb.jpg",
+    "static/media/s1.jpg": "/rabbihosain/react/static/media/s1.32e03371.jpg",
+    "static/media/s2.jpg": "/rabbihosain/react/static/media/s2.a19144fa.jpg",
+    "static/media/seo.jpg": "/rabbihosain/react/static/media/seo.0f010d6c.jpg",
+    "static/media/web-design-01.jpg": "/rabbihosain/react/static/media/web-design-01.3efe0496.jpg",
+    "static/media/web-development.jpg": "/rabbihosain/react/static/media/web-development.e8c01885.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fcae2925.js",
+    "static/css/2.11829350.chunk.css",
+    "static/js/2.904c44bd.chunk.js",
+    "static/css/main.5ba71205.chunk.css",
+    "static/js/main.656c5840.chunk.js"
+  ]
+}
